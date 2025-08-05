@@ -1,0 +1,9 @@
+.expense-form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.expense-form input,
+.expense-form button {
+  margin: 5px 0;
+}
